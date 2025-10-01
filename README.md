@@ -184,9 +184,3 @@
 
 ---
 
-### Quick Runbook (1‑page cut‑down for interviews)
-
-1. **Identify:** Pull message + artifacts → headers, content, reputation, severity call.
-2. **Contain:** Purge mail; block sender/URL/domain; if creds at risk → reset + revoke; if attachment executed → isolate host and scan.
-3. **Eradicate/Recover:** Remove inbox rules, fix configs, restore clean state.
-4. **Lessons:** Update detections, train users involved, capture IOCs, brief stakeholders.
